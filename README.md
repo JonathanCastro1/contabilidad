@@ -1,4 +1,4 @@
-#Author: Jonathan Castro
+#Author: Jonathan Castro<br>
 Proyecto realizado con:
 Php 5.6
 Base de datos mysql
