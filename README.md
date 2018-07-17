@@ -1,4 +1,9 @@
-#Proyecto realizado con php 5.6,base de datos mysql ,jquery 3.3.1, bootstrap 3.3.7 
+#Author: Jonathan Castro
+Proyecto realizado con:
+Php 5.6
+Base de datos mysql
+Jquery 3.3.1
+Bootstrap 3.3.7 
 
 contabilidad
 Pequeño sistema contable
